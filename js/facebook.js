@@ -1,7 +1,7 @@
 function facebook() {
 	FB.init({
-	    appId: '125820587588612',//api aplicación facebook
-	    secret: 'a59a7d6cdc23908aeb75e5848e2209e5',// secret aplicación facebook
+	    appId: '',//api aplicación facebook
+	    secret: '',// secret aplicación facebook
 	    cookie: true,
 	    status  : true, 
 	    xfbml: true,
